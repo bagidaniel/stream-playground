@@ -21,3 +21,5 @@ public class Country {
     private boolean independent;
 
 }
+
+
